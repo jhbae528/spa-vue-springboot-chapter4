@@ -1,4 +1,4 @@
-<template>
+<template> 
   <div id="app">
     <todo-header/>
     <todo-input v-on:addTodo="onAddTodo"></todo-input>
